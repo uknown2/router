@@ -1,0 +1,29 @@
+.maindiv{
+    text-align: center;
+} 
+
+.h1{
+    text-align: center;
+}
+
+#navbnarv{
+    text-align: center;
+}
+
+#displaydiv{
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#natureimage{
+    margin: 2%;
+    height: 200;
+    width: 200;
+}
+
+#animalsimages{
+    margin: 2%;
+    height: 200;
+    width: 200;
+}
